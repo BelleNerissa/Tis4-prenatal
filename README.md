@@ -1,5 +1,13 @@
 <h3 align="center">
     <h2 width="300px">APP Pré-Natal - Trabalho Interdisciplinar 4</h2>
+    <p>O atendimento pré-natal é fundamental para a saúde da gestante e
+do feto, mas a qualidade e a cobertura do serviço no Brasil são inadequadas.
+Os profissionais de saúde desempenham um papel importante no processo,
+incluindo a solicitação de exames e procedimentos, orientação das gestantes e
+identificação de fatores de risco. Para melhorar o atendimento, é necessário
+desenvolver uma aplicação híbrida (web/mobile) gratuita e de fácil acesso que
+siga as recomendações do Ministério da Saúde e forneça recursos como fichas
+de paciente, de vacinas e suplementações.</p>
     <br><br>
     <p align="center">
       <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
